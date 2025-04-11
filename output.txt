@@ -1,0 +1,3 @@
+Finished in 8.2303 seconds.
+Total iterations: 10000000
+Estimated Pi: 3.1410132000
